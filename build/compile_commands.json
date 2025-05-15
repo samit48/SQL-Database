@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/main.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/main.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/binary_files/file_record.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/binary_files/utilities.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/parser/parser.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/parser/sql_parser_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/rpn/rpn.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/shunting_yard/shunting_yard.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/sql/sql.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/stub/stub.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/table/table.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/ftokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/state_machine_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/stokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/token/tokenizer.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/tokenizer/token.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/_tests/_test_files/basic_test.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/_tests/_test_files/basic_test.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/binary_files/file_record.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/binary_files/utilities.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/parser/parser.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/parser/sql_parser_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/rpn/rpn.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/shunting_yard/shunting_yard.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/sql/sql.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/stub/stub.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/table/table.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/token/ftokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/token/state_machine_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/token/stokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/token/tokenizer.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/tokenizer/token.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/_tests/_test_files/testB.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/_tests/_test_files/testB.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/binary_files/file_record.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/file_record.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/binary_files/utilities.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/binary_files/utilities.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/parser/parser.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/parser.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/parser/sql_parser_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/parser/sql_parser_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/rpn/rpn.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/shunting_yard/shunting_yard.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/sql/sql.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/sql/sql.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/stub/stub.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/table/table.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/table/table.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/token/ftokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/ftokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/token/state_machine_functions.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/state_machine_functions.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/token/stokenize.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/stokenize.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/token/tokenizer.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/token/tokenizer.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/tokenizer/token.cpp.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/includes/tokenizer/token.cpp"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/include -I/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -I/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/include -isystem /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/samuelmekonnen/Documents/CS008/Untitled/99_99_final_project-samuelm48/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
