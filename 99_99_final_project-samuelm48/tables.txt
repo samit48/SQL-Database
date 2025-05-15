@@ -1,4 +1,0 @@
-employee
-student
-parts
-courses
